@@ -21,6 +21,9 @@ cd Refector
 # Instale as dependências
 yarn install
 
+# Rode a api
+yarn server
+
 # Rode a aplicação
 yarn start
 ```
